@@ -31,5 +31,7 @@ It is also shown that the utilization of the bikes is typically less than 6 minu
 We can see from the graphs that these bikes serve the community. They help commuters to and from work. We can also see there is a moderate amount of utilization on weekends. This means there is opportunity to grow. When bikes are used more often, they need to be repared more. We can see that the utilization is typically less than 6 minutes, which also means typically minimal repairs are necessary. 
 It would be interesting to see how many bicycles are lost. In order to pull this data, we'd need to track bikes that have been decomissioned. We would also need to watch this data to see if any bikes stop being utilized at all. This would increase the overhead. It would also be nice to track the purpose for the bike use. This would be in the form of a quesionare, but the results could help push the sales force of the company. 
 
-The following is a link to the tableu workbook for this data. 
+The following is a link to the tableu workbook and story for this data. 
+
+https://prod-useast-b.online.tableau.com/#/site/johio/views/DUClass/CitiBike?:iid=2
 https://prod-useast-b.online.tableau.com/#/site/johio/workbooks/330759/views
